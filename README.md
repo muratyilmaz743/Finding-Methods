@@ -1,6 +1,8 @@
 # Finding-Methods
 Some quick finding methods used Python 
 
+All three methods used for 37. day.
+
 Direct method example with Covid-19 cases used in Turkey.
 
 ![directMethod](https://user-images.githubusercontent.com/61375971/92413572-64939b80-f159-11ea-94d7-75288771894d.png)
